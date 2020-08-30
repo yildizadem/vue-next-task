@@ -3,6 +3,10 @@
 Simple ticketmaster search app with Vue 3 + Vite
 
 ## Usage
+### Installation
+```
+npm install
+```
 
 ```javascript
 // src/env.js
@@ -15,4 +19,9 @@ export default {
 ### Start
 ```
 npm run dev
+```
+
+### Test
+```
+npm run test
 ```
